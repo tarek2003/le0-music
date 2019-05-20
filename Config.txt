@@ -1,0 +1,6 @@
+token=NTgwMTQyMTI5MjEzNDcyNzg5.XOMZkg.oBI4w40wCBiROF_92tdfp3PVTo8
+owner=   568812982734159872
+prefix= #
+game= Type help
+stayinchannel=true
+songintatus=true
